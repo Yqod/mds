@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative flex min-h-screen items-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/hero-kletter.png"
+          src="/herokletter1.png"
           alt="Industriekletterer im Offshore-Einsatz"
           className="h-full w-full object-cover object-[40%_center] lg:object-[10%_center]"
         />
