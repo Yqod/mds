@@ -25,7 +25,7 @@ const services = [
 
 export default function Services() {
   return (
-    <section id="leistungen" className="bg-white py-24">
+    <section id="leistungen" className="bg-[#f7f7f7] py-24">
       <div className="mx-auto max-w-7xl px-6">
         <div className="max-w-2xl">
           <span className="text-xs font-semibold uppercase tracking-[0.25em] text-brand">

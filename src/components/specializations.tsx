@@ -1,7 +1,7 @@
 const fields = [
   {
     title: "Offshore Windkraftanlagen",
-    copy: "Weg von der Atomkraft, hin zu neuen Energien — der Ausbau der Offshore-Windenergie geht weltweit voran.",
+    copy: "Der Ausbau der Offshore-Windenergie geht weltweit voran.",
     image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=900&q=80",
   },
   {
@@ -26,7 +26,7 @@ const fields = [
   },
   {
     title: "Wartung & Support",
-    copy: "Regelmäßige Wartung, Inspektion und schneller Service — wir halten Ihre Anlagen langfristig betriebssicher.",
+    copy: "Regelmäßige Wartung und Inspektion — wir halten Ihre Anlagen langfristig betriebssicher.",
     image: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=900&q=80",
   },
 ];

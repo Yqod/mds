@@ -5,9 +5,9 @@ export default function Hero() {
     <section className="relative flex min-h-screen items-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/1280x2-headerbild-mds-optimized.jpg"
+          src="/hero-kletter.png"
           alt="Industriekletterer im Offshore-Einsatz"
-          className="h-full w-full object-cover"
+          className="h-full w-full object-cover object-[40%_center] lg:object-[10%_center]"
         />
         <div className="absolute inset-0 bg-gradient-to-l from-ink/95 via-ink/80 to-ink/40" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-transparent to-ink/60" />

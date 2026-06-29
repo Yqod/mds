@@ -16,17 +16,20 @@ const stats = [
 
 export default function About() {
   return (
-    <section id="ueber-uns" className="bg-white py-24">
+    <section id="ueber-uns" className="bg-[#ffffff] py-24">
       <div className="mx-auto grid max-w-7xl items-center gap-14 px-6 lg:grid-cols-2">
         <div className="relative">
-          <img
-            src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1000&q=80"
-            alt="MDS Industriekletterer an Offshore-Windkraftanlagen"
+          <video
+            src="/demologos/Ohne Titel.mp4"
+            autoPlay
+            loop
+            muted
+            playsInline
             className="h-[460px] w-full rounded-2xl object-cover"
           />
-          <div className="absolute -bottom-6 -right-6 hidden rounded-2xl bg-brand px-8 py-6 text-white shadow-xl sm:block">
-            <p className="text-3xl font-bold">Möser</p>
-            <p className="text-sm text-white/80">bei Magdeburg</p>
+          <div className="absolute -bottom-6 -right-6 hidden rounded-2xl bg-brand px-8 py-6 text-white shadow-xl sm:block text-center">
+            <p className="text-3xl font-bold">International</p>
+            <p className="text-sm text-white/80">im Einsatz</p>
           </div>
         </div>
 
